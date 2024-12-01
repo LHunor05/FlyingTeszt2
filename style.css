@@ -11,7 +11,10 @@
 html {
     scroll-behavior: smooth;
 }
-
+.tur-video{
+    width:100%;
+}
+    
 body {
     background-image: url(kepek/klim-musalimov-Lwf49f-QzSI-unsplash.jpg);
     background-repeat: no-repeat;
